@@ -19,6 +19,8 @@ namespace EF_Tutorials
             Application.Run(new Form1());
             Exception ex = new Exception();
             Exception ex1 = new Exception();
+            Exception ex2 = new Exception();
+
         }
     }
 }
